@@ -1,5 +1,7 @@
 # taf-playwright-typescript
 
+[![CI](https://github.com/VladyslavKostin/taf-playwright-typescript/actions/workflows/ci.yml/badge.svg)](https://github.com/VladyslavKostin/taf-playwright-typescript/actions/workflows/ci.yml)
+
 A sample Playwright + TypeScript test automation framework, built around the **Intent → Flow → Component**
 pattern, testing the full pyramid (Component / API / E2E) against a real public site —
 [automationexercise.com](https://automationexercise.com).
